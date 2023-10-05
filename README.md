@@ -1,4 +1,4 @@
-##Form Handling
+## Form Handling
 Tutorial for how form-handling works in Vue
 
 ## Customize configuration
